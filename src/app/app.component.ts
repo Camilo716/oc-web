@@ -4,6 +4,7 @@ import { HeroComponent } from './hero/hero.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { ModulesComponent } from './modules/modules.component';
 import { FooterComponent } from './footer/footer.component';
+import { CustomDevelopmentComponent } from './custom-development/custom-development.component';
 
 @Component({
   selector: 'app-root',
@@ -16,6 +17,7 @@ import { FooterComponent } from './footer/footer.component';
     NavbarComponent,
     ModulesComponent,
     FooterComponent,
+    CustomDevelopmentComponent,
   ],
 })
 export class AppComponent {
