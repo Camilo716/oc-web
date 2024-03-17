@@ -10,4 +10,5 @@ import { Component, Input } from '@angular/core';
 export class NavbarItemComponent {
   @Input() text = 'Not yet defined';
   @Input() link = 'Not yet defined';
+  @Input() target = '_self';
 }

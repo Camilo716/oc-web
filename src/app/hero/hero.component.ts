@@ -13,5 +13,5 @@ export class HeroComponent {
     'Modularidad, escalabilidad y seguridad para tu negocio';
 
   public detailedDescription: string =
-    'Transformando empresas con soluciones empresariales a medida para una gestión eficiente y personalizada';
+    'Descubre cómo podemos convertir tus ideas en poderosas herramientas digitales que te ayuden a destacar en un mundo cada vez más competitivo';
 }
